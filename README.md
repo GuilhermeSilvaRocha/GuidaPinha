@@ -1,8 +1,7 @@
-- 👋 Olá, Eu sou @GuidaPinha
+- 👋 Olá, Eu sou **@GuilhermeSilvaRocha**
 - 👀 Estou interessado em Programação com foco no Frontend.
-- 🌱Estou aprendendo no momento JavaScript...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱Estou aprendendo no momento **JavaScript**.
+
 
 <!---
 GuidaPinha/GuidaPinha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
